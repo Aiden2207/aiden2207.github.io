@@ -1,0 +1,11 @@
+@media (prefers-color-scheme: dark){
+  .warning{
+    background-color: rgb(114, 114, 7)
+  }
+}
+
+@media (prefers-color-scheme: light){
+  .warning{
+    background-color: rgb(231, 231, 102)
+  }
+}
